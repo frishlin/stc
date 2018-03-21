@@ -9,7 +9,7 @@ Integrantes:
 - Deni&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; (UX Designer)
 
 ## Descripción del proyecto
-Mejorar con un diseño de Landign Page, el ingreso de donativos por este medio
+Mejorar el ingreso de donativos por medio de una Landig Page
 
 ### Objetivo del Proyecto
 Conocer todo el proceso del usuario y mejorar su experiencia para incentivarlo a donar
