@@ -33,15 +33,15 @@ Se establecen los siguientes objetivos de Negocio
 
 ## Canvas del Modelo de Negocio
 
-![canvas-modelo-negocio](https://github.com/frishlin/stc/blob/master/assets/imgs/canvas-mn.jpg)
+![canvas-modelo-negocio](https://github.com/frishlin/stc/blob/master/assets/imgs/canvas-mn.JPG)
 
 ## Análisis FODA
 
-![analisis-foda](https://github.com/frishlin/stc/blob/master/assets/imgs/foda.jpg)
+![analisis-foda](https://github.com/frishlin/stc/blob/master/assets/imgs/foda.JPG)
 
 ## Análisis SMART
 
-![analisis-smart](https://github.com/frishlin/stc/blob/master/assets/imgs/smart.jpg)
+![analisis-smart](https://github.com/frishlin/stc/blob/master/assets/imgs/smart.JPG)
 
 
 ## Necesidades del Usuarios
