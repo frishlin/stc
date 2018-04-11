@@ -24,7 +24,7 @@ Se construye el costumer journey map del usuario con la Landing Page actual
 2. Igualmente no sentí el sitio seguro al no observar seguros en el caso de “transacciones seguras”, por lo cual volví a escribir datos falsos y me mandó la vista de agradecimiento.
 3. Solo por ese hecho, definitivamente no donaría, pues no me genera confianza su sistema de seguridad de pago, que en realidad no se muestra.
 
-![journey](https://github.com/frishlin/stc/blob/master/assets/imgs/jouney.jpg)
+![journey](https://github.com/frishlin/stc/blob/master/assets/imgs/journey.JPG)
 
 
 
