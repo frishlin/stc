@@ -31,9 +31,18 @@ Se establecen los siguientes objetivos de Negocio
 
 ![objetivos-negocio](https://github.com/frishlin/stc/blob/master/assets/imgs/objetivos-negocio.png)
 
-## Mapa de empatía
+## Canvas del Modelo de Negocio
 
-## Enunciado del Problema
+![canvas-modelo-negocio](https://github.com/frishlin/stc/blob/master/assets/imgs/canvas-mn.jpg)
+
+## Análisis FODA
+
+![analisis-foda](https://github.com/frishlin/stc/blob/master/assets/imgs/foda.jpg)
+
+## Análisis SMART
+
+![analisis-smart](https://github.com/frishlin/stc/blob/master/assets/imgs/smart.jpg)
+
 
 ## Necesidades del Usuarios
 
@@ -42,23 +51,3 @@ Se establecen los siguientes objetivos de Negocio
 * Proceso de donación intuitivo.
 * Información concisa y clara.
 * Imágenes que motiven a reforzar la sensación de altruismo y no de culpa.
-
-## Objetivo de Negocio
-
-## Insights
-
-## Validando información
-
-### Usuarios que ya conocen el tipo de servicio
-
-## Solución del Problema
-
-## Beneficios
-
-## ¿Cómo funciona RidePoolMX?
-
-## Análisis de la implementación
-
-## Nuevo Enunciado
-
-## Herramientas utilizadas
