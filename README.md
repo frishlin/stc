@@ -77,7 +77,7 @@ Estrategia de comunicación positiva para incrementar los donativos y mejorar la
 * Imágenes que motiven a reforzar la sensación de altruismo y no de culpa.
 
 ## Oportunidades y Mejoras
-* Rediseñar la Landing Page
+* Rediseñar la Landing Page cambiando las imágenes tristes por imágenes de niños felices, haciendo énfasis al círculo rojo, que es símbolo de unión y protección
 * Estrategia de comunicación
 * Estrategia de fidelización
 * Redes Sociales
@@ -100,3 +100,15 @@ Estrategia de comunicación positiva para incrementar los donativos y mejorar la
 ## Wireframe
 
 ![wireframe](https://github.com/frishlin/stc/blob/master/assets/imgs/wireframe.png)
+
+## Algunas propuestas de fidelización
+![fidelizacion](https://github.com/frishlin/stc/blob/master/assets/imgs/00-INVITACION.jpg)
+![fidelizacion](https://github.com/frishlin/stc/blob/master/assets/imgs/01-CORREO%20PUEDES%20SER%20DEFENSOR.jpg)
+![fidelizacion](https://github.com/frishlin/stc/blob/master/assets/imgs/02-INVITAR%20AMIGOS%20-%20LLENO.jpg)
+![fidelizacion](https://github.com/frishlin/stc/blob/master/assets/imgs/04-INVITAR%20OTRO%20AMIGO.jpg)
+![fidelizacion](https://github.com/frishlin/stc/blob/master/assets/imgs/05-INVITACION%20ENVIADA.jpg)
+![fidelizacion](https://github.com/frishlin/stc/blob/master/assets/imgs/06-COMPARTIR%20FACEBOOK.jpg)
+![fidelizacion](https://github.com/frishlin/stc/blob/master/assets/imgs/07-CORREO%20ERES%20DEFENSOR.jpg)
+![fidelizacion](https://github.com/frishlin/stc/blob/master/assets/imgs/08-CORREO%20INVITASTE%20A%20TU%20AMIGO%20A%20UNIRSE%20A%20TU%20CAUSA.jpg)
+![fidelizacion](https://github.com/frishlin/stc/blob/master/assets/imgs/09-CORREO%20TE%20INVITARON.jpg)
+![fidelizacion](https://github.com/frishlin/stc/blob/master/assets/imgs/09-CORREO%20TE%20INVITARON.jpg)
