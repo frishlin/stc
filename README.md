@@ -43,6 +43,30 @@ Se establecen los siguientes objetivos de Negocio
 
 ![analisis-smart](https://github.com/frishlin/stc/blob/master/assets/imgs/smart.JPG)
 
+## Hipótesis
+Estrategia de comunicación positiva para incrementar los donativos y mejorar la experiencia del usuario (seguridad, transparencia) con Save the Children.
+
+## Preguntas de Encuesta
+1. Selecciona tu género y rango de edad
+2. ¿Cuáles son tus ingresos mensuales?
+3. ¿Cuentas con tarjeta de crédito/débito?
+4. ¿Alguna vez has donado a una organización sin fines de lucro?
+5. ¿Con qué frecuencia realizarías una donación?
+6. ¿A través de qué medio de contacto te gustaría realizar tu donación?
+7. ¿A través de qué sistema de pago te gustaría hacer una donación?
+8. ¿Qué cantidad estarías dispuesto a donar?
+9. A continuación escribe 3 palabras que relaciones con Save The Children:
+10. Respecto al sitio web que visitaste, el mensaje de Save the Children te parece:
+11. La imagen principal de la página te parece:
+12. El proceso de donación de Save the Children te parece:
+13. De la información que viste en la página ¿Cuál te parece más relevante?
+14. Después de tu experiencia con la página de Save the Children ¿Estarías dispuesto a hacer una donación?
+
+## Insights más relevantes
+
+* Al 63% de los usuarios les pareció poco agradable la imagen principal de la landing page de Save the Children.
+* Al 42.2% de los usuarios les pareció poco claro el mensaje de Save the Children.
+* El 60% de los usuarios no donarían después de su interacción con la landing page de Save the Children
 
 ## Necesidades del Usuarios
 
@@ -51,3 +75,28 @@ Se establecen los siguientes objetivos de Negocio
 * Proceso de donación intuitivo.
 * Información concisa y clara.
 * Imágenes que motiven a reforzar la sensación de altruismo y no de culpa.
+
+## Oportunidades y Mejoras
+* Rediseñar la Landing Page
+* Estrategia de comunicación
+* Estrategia de fidelización
+* Redes Sociales
+* Formulario de registro y donación
+* Transparencia
+* Enfoque positivo
+* Destacar fortalezas de la institución
+
+## Propuesta de solución
+1. Estrategia de comunicación con enfoque positivo para incrementar los donativos
+
+## Backlog
+* Navbar
+* Vista principal
+* Formulario
+* Sobre los programas de STC
+* Agradecimiento y redes sociales
+* Datos de contacto
+
+## Wireframe
+
+![wireframe](https://github.com/frishlin/stc/blob/master/assets/imgs/wireframe.png)
