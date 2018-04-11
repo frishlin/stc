@@ -26,15 +26,22 @@ Se construye el costumer journey map del usuario con la Landing Page actual
 
 ![journey](https://github.com/frishlin/stc/blob/master/assets/imgs/journey.JPG)
 
+## Objetivos de Negocio
+Se establecen los siguientes objetivos de Negocio
 
+![objetivos-negocio](https://github.com/frishlin/stc/blob/master/assets/imgs/objetivos-negocio.png)
 
 ## Mapa de empatía
 
 ## Enunciado del Problema
 
-## Necesidades del Conductor
+## Necesidades del Usuarios
 
-## Necesidades del Pasajero
+* Satisfacer la necesidad de transparencia.
+* Garantizar un proceso de donación y tratamiento de los datos personales, seguros.
+* Proceso de donación intuitivo.
+* Información concisa y clara.
+* Imágenes que motiven a reforzar la sensación de altruismo y no de culpa.
 
 ## Objetivo de Negocio
 
