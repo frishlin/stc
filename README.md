@@ -112,3 +112,9 @@ Estrategia de comunicación positiva para incrementar los donativos y mejorar la
 ![fidelizacion](https://github.com/frishlin/stc/blob/master/assets/imgs/08-CORREO%20INVITASTE%20A%20TU%20AMIGO%20A%20UNIRSE%20A%20TU%20CAUSA.jpg)
 ![fidelizacion](https://github.com/frishlin/stc/blob/master/assets/imgs/09-CORREO%20TE%20INVITARON.jpg)
 ![fidelizacion](https://github.com/frishlin/stc/blob/master/assets/imgs/09-CORREO%20TE%20INVITARON.jpg)
+
+## Herramientas
+* Instapage
+* Google forms
+* Illustrator CS6
+* Invisionapp
