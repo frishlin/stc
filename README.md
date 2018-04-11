@@ -3,6 +3,8 @@ Conocer todo el proceso del usuario y mejorar su experiencia para incentivarlo a
 ![landing-page](https://github.com/frishlin/stc/blob/master/assets/imgs/screen%20landing.png)
 
 ## Definición del usuario:
+![user-persona](https://github.com/frishlin/stc/blob/master/assets/imgs/user-persona.png)
+
 
 ## Customer Journey Map
 
