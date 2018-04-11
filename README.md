@@ -1,6 +1,6 @@
 Conocer todo el proceso del usuario y mejorar su experiencia para incentivarlo a donar en Save the Children desde su Landing Page.
 
-![landing-page](https://github.com/frishlin/stc/master/assets/imgs/screen landing)
+![landing-page](https://github.com/frishlin/stc/blob/master/assets/imgs/screen%20landing.png)
 
 ## Definición del usuario:
 
